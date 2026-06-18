@@ -1,2 +1,2 @@
-pyfiglet==0.8.post1
-termcolor==1.1.0
+rich>=13.7
+pyfiglet>=1.0   # optional: only used for the ASCII-art banner
